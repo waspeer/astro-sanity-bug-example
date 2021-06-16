@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "astro": "^0.13.0"
+  },
+  "dependencies": {
+    "@sanity/client": "^2.11.0"
   }
 }
